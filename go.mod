@@ -1,4 +1,4 @@
-module github.com //hello
+module github.com/youdw/hello
 
 go 1.13
 
